@@ -59,7 +59,16 @@ After:<br><br>
 <br><br>
 ## ▶️ Files
 
-organise.ps1 : 
+organise.ps1 : This file contains the script that performs all operations. You can modify the code according to your own backup system.
+
+The files below are registry files created for the Windows operating system. To run the file, you must first remove the `.txt` extension and change it to `.reg`. After changing the extension, when you run the file, the code inside it will create entries in the Windows Registry. Run only the file you need, and only once.
+
+organise_Right_click_to_blank.reg.txt : This file enables the option **"Organize Backups in This Folder"** to appear in the menu when you right-click on an empty area inside any folder.
+
+organise_Right_click_to_blank.reg.txt : This file enables the option **"Organize Backups by Year"** to appear in the menu when you right-click on any folder.
+
+organise_Right_click_to_folder_blank.reg.txt : This file enables both of the above options.
+
 
 ---
 <br><br>
