@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\BackupYearOrganizer]
+@="Organize Backups by Year"
+"Icon"="powershell.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\BackupYearOrganizer\command]
+@="powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:\\Scripts\\organise.ps1\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\BackupYearOrganizer]
+@="Organize Backups in This Folder"
+"Icon"="powershell.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\BackupYearOrganizer\command]
+@="powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:\\Scripts\\organise.ps1\" \"%V\""
