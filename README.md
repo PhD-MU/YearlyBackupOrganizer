@@ -63,7 +63,6 @@ Drag a folder onto the script:
 
 organise.ps1
 
-
 ---
 <br><br>
 ### Method 2 — Run manually
@@ -72,7 +71,9 @@ organise.ps1
 powershell -ExecutionPolicy Bypass -File .\organise.ps1
 ```
 
-You will be prompted to enter the target directory.
+You will be prompted to enter the target directory.  
+
+---
 <br><br>
 ### Method 3 — Context Menu (Optional)
 
@@ -93,7 +94,8 @@ Scans files:<br>
 └── *_2024*<br>
 Moves files to matching year folders<br>
 Displays progress<br>
-Generates report<br>
+Generates report<br><br>
+---
 <br><br>
 📊 Reporting<br><br>
 
