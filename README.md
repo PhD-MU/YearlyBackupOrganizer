@@ -94,8 +94,8 @@ Scans files:<br>
 └── *_2024*<br>
 Moves files to matching year folders<br>
 Displays progress<br>
-Generates report<br><br>
----
+Generates report<br>
+
 <br><br>
 📊 Reporting<br><br>
 
