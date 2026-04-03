@@ -84,7 +84,7 @@ Right-click menu
 
 (See setup instructions in repo or ask for registry config)
 <br><br><br>
-⚙️ How It Works<br><br>
+## ⚙️ How It Works<br><br>
 
 Determines year range dynamically:<br>
 └── 2020 → (Current Year - 1)<br>
@@ -97,7 +97,7 @@ Displays progress<br>
 Generates report<br>
 
 <br><br>
-📊 Reporting<br><br>
+## 📊 Reporting<br><br>
 
 At the end of execution, you can choose:<br><br>
 
@@ -117,7 +117,7 @@ Includes everything plus:<br>
 Example file name:<br>
 backup_20260403_1423.txt<br><br>
 
-⚠️ Notes<br><br>
+## ⚠️ Notes<br><br>
 
 Works with network drives (W:, etc.)<br>
 Includes retry logic for:<br>
