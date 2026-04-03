@@ -69,7 +69,7 @@ organise.ps1
 ### Method 2 — Run manually
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\duzenle.ps1
+powershell -ExecutionPolicy Bypass -File .\organise.ps1
 ```
 
 You will be prompted to enter the target directory.
