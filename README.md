@@ -56,7 +56,7 @@ After:<br><br>
 ---
 <br><br>
 ## ▶️ Usage
-
+<br><br>
 ### Method 1 — Drag & Drop
 
 Drag a folder onto the script:
