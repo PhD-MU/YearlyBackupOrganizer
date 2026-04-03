@@ -73,7 +73,7 @@ powershell -ExecutionPolicy Bypass -File .\duzenle.ps1
 ```
 
 You will be prompted to enter the target directory.
-
+<br><br>
 ### Method 3 — Context Menu (Optional)
 
 You can integrate the script into:
@@ -112,7 +112,7 @@ Includes everything plus:<br>
 └── Errors and retry results<br>
 └── Folder operations<br><br>
 
-Example file name:<br><br>
+Example file name:<br>
 
 backup_20260403_1423.txt<br><br>
 
