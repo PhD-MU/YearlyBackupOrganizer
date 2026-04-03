@@ -85,32 +85,32 @@ Right-click menu
 
 ⚙️ How It Works
 
-Determines year range dynamically:
-└── 2020 → (Current Year - 1)
-Creates missing folders
-Scans files:
-└── *_2023*
-└── *_2024*
-Moves files to matching year folders
-Displays progress
-Generates report
+Determines year range dynamically:<br>
+└── 2020 → (Current Year - 1)<br>
+Creates missing folders<br>
+Scans files:<br>
+└── *_2023*<br>
+└── *_2024*<br>
+Moves files to matching year folders<br>
+Displays progress<br>
+Generates report<br>
 
 📊 Reporting
 
 At the end of execution, you can choose:
 
-Summary Report
-└── Total moved files
-└── Skipped files
-└── Failed files
-└── Empty folders status
-└── Execution time
+Summary Report<br>
+└── Total moved files<br>
+└── Skipped files<br>
+└── Failed files<br>
+└── Empty folders status<br>
+└── Execution time<br>
 
-Detailed Report
-Includes everything plus:
-└── Each file movement
-└── Errors and retry results
-└── Folder operations
+Detailed Report<br>
+Includes everything plus:<br>
+└── Each file movement<br>
+└── Errors and retry results<br>
+└── Folder operations<br>
 
 Example file name:
 
@@ -118,13 +118,13 @@ backup_20260403_1423.txt
 
 ⚠️ Notes
 
-Works with network drives (W:, etc.)
-Includes retry logic for:
-└── Temporary network issues
-└── Locked files
-Files may be skipped if:
-└── They no longer exist
-└── They are still being written (e.g. active backups)
+Works with network drives (W:, etc.)<br>
+Includes retry logic for:<br>
+└── Temporary network issues<br>
+└── Locked files<br>
+Files may be skipped if:<br>
+└── They no longer exist<br>
+└── They are still being written (e.g. active backups)<br>
 
 💡 Best Practice
 
