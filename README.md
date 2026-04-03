@@ -133,7 +133,4 @@ If you are working with live backup folders:<br><br>
 👉 Avoid moving files that are still being created<br>
 👉 (Future version may include "skip recent files" option)<br>
 
-🧑‍💻 Author<br><br>
 
-Murat UZUN
-📧 muratuzun79@gmail.com
