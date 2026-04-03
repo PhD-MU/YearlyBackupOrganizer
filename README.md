@@ -63,7 +63,7 @@ After:<br><br>
 
 ⚠️ **Important:**  
 
-<pre>The following files are registry files created for the Windows operating system. Before running these files, you should open them with a text editor and replace the path
+<pre style="white-space: pre-wrap; word-break: break-word;">The following files are registry files created for the Windows operating system. Before running these files, you should open them with a text editor and replace the path
 C:\\Scripts\\organise.ps1
 with the path where you downloaded the organise.ps1 file on your computer.
 
