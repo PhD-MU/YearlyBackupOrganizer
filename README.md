@@ -28,23 +28,23 @@ It is designed especially for database backup directories but works with **any f
 
 ## 📌 Example
 
-Before:
+Before:<br><br>
 
-/backups
-├── db_FULL_2022_0101.bak
-├── db_FULL_2023_0201.bak
-├── db_FULL_2024_0301.bak
+/backups<br>
+├── db_FULL_2022_0101.bak<br>
+├── db_FULL_2023_0201.bak<br>
+├── db_FULL_2024_0301.bak<br>
+<br><br>
+After:<br><br>
 
-After:
-
-/backups
-├── 2022/
-│ └── db_FULL_2022_0101.bak
-├── 2023/
-│ └── db_FULL_2023_0201.bak
-├── 2024/
-│ └── db_FULL_2024_0301.bak
-
+/backups<br>
+├── 2022/<br>
+│ └── db_FULL_2022_0101.bak<br>
+├── 2023/<br>
+│ └── db_FULL_2023_0201.bak<br>
+├── 2024/<br>
+│ └── db_FULL_2024_0301.bak<br>
+<br>
 
 ---
 
