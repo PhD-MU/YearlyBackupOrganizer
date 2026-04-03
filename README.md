@@ -61,7 +61,7 @@ After:<br><br>
 
 Drag a folder onto the script:
 
-duzenle.ps1
+organise.ps1
 
 
 ---
