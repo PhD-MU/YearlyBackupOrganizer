@@ -3,7 +3,7 @@
 Automatically organize your backup files into yearly folders — fast, safe, and with detailed reporting.
 
 ---
-
+<br><br>
 ## 🚀 Overview
 
 **BackupYearOrganizer** is a PowerShell script that scans a directory, detects backup files based on year patterns in their filenames (e.g. `_2023`), and automatically moves them into corresponding yearly folders.
@@ -11,7 +11,7 @@ Automatically organize your backup files into yearly folders — fast, safe, and
 It is designed especially for database backup directories but works with **any file type**.
 
 ---
-
+<br><br>
 ## ✨ Features
 
 - 📁 Creates missing folders from **2020 up to last year (dynamic)**
@@ -25,7 +25,7 @@ It is designed especially for database backup directories but works with **any f
 - 🎨 Stylish CLI interface with animations
 
 ---
-
+<br><br>
 ## 📌 Example
 
 Before:<br><br>
@@ -47,14 +47,14 @@ After:<br><br>
 <br>
 
 ---
-
+<br><br>
 ## 🛠 Requirements
 
 - Windows Server / Windows OS
 - PowerShell 5.1 or higher
 
 ---
-
+<br><br>
 ## ▶️ Usage
 
 ### Method 1 — Drag & Drop
@@ -65,7 +65,7 @@ duzenle.ps1
 
 
 ---
-
+<br><br>
 ### Method 2 — Run manually
 
 ```powershell
@@ -82,7 +82,7 @@ Right-click menu
 "Send To" menu
 
 (See setup instructions in repo or ask for registry config)
-<br><br>
+<br><br><br>
 ⚙️ How It Works<br><br>
 
 Determines year range dynamically:<br>
