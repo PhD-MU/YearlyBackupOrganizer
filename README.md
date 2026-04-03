@@ -1,6 +1,8 @@
 # 📦 BackupYearOrganizer
 
-Automatically organize your backup files into yearly folders — fast, safe, and with detailed reporting.
+Automatically organize your backup files into yearly folders — fast, safe, and with detailed reporting.  
+
+Feel free to modify it to suit your own needs. I’m happy if it helped make your work easier.
 
 ---
 <br><br>
@@ -52,6 +54,12 @@ After:<br><br>
 
 - Windows Server / Windows OS
 - PowerShell 5.1 or higher
+
+---
+<br><br>
+## ▶️ Files
+
+organise.ps1 : 
 
 ---
 <br><br>
