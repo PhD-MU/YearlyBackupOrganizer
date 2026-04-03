@@ -82,8 +82,8 @@ Right-click menu
 "Send To" menu
 
 (See setup instructions in repo or ask for registry config)
-
-⚙️ How It Works
+<br><br>
+⚙️ How It Works<br><br>
 
 Determines year range dynamically:<br>
 └── 2020 → (Current Year - 1)<br>
@@ -94,29 +94,29 @@ Scans files:<br>
 Moves files to matching year folders<br>
 Displays progress<br>
 Generates report<br>
+<br><br>
+📊 Reporting<br><br>
 
-📊 Reporting
-
-At the end of execution, you can choose:
+At the end of execution, you can choose:<br><br>
 
 Summary Report<br>
 └── Total moved files<br>
 └── Skipped files<br>
 └── Failed files<br>
 └── Empty folders status<br>
-└── Execution time<br>
+└── Execution time<br><br>
 
 Detailed Report<br>
 Includes everything plus:<br>
 └── Each file movement<br>
 └── Errors and retry results<br>
-└── Folder operations<br>
+└── Folder operations<br><br>
 
-Example file name:
+Example file name:<br><br>
 
-backup_20260403_1423.txt
+backup_20260403_1423.txt<br><br>
 
-⚠️ Notes
+⚠️ Notes<br><br>
 
 Works with network drives (W:, etc.)<br>
 Includes retry logic for:<br>
@@ -124,16 +124,16 @@ Includes retry logic for:<br>
 └── Locked files<br>
 Files may be skipped if:<br>
 └── They no longer exist<br>
-└── They are still being written (e.g. active backups)<br>
+└── They are still being written (e.g. active backups)<br><br>
 
-💡 Best Practice
+💡 Best Practice<br><br>
 
-If you are working with live backup folders:
+If you are working with live backup folders:<br><br>
 
-👉 Avoid moving files that are still being created
-👉 (Future version may include "skip recent files" option)
+👉 Avoid moving files that are still being created<br>
+👉 (Future version may include "skip recent files" option)<br>
 
-🧑‍💻 Author
+🧑‍💻 Author<br><br>
 
 Murat UZUN
 📧 muratuzun79@gmail.com
