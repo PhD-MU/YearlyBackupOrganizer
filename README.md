@@ -64,11 +64,15 @@ After:<br><br>
 ⚠️ **Important:**  
 
 ```
-The following files are registry files created for the Windows operating system. Before running these files, you should open them with a text editor and replace the path
+The following files are registry files created for the Windows operating system.
+Before running these files, you should open them with a text editor and replace the path
+
 C:\\Scripts\\organise.ps1
+
 with the path where you downloaded the organise.ps1 file on your computer.
 
-After making this change, to run the file, you must first remove the .txt extension and change it to .reg. Once the extension is changed, running the file will create entries in the Windows Registry using the code inside it.
+After making this change, to run the file, you must first remove the .txt extension and change it to .reg.
+ Once the extension is changed, running the file will create entries in the Windows Registry using the code inside it.
 
 After this step, do not change the location of your organise.ps1 file. Run only the file you need, and only once.
 ```
